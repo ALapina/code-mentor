@@ -1,14 +1,14 @@
 ---
 name: teachback
-description: She explains a topic in her own words and you check for gaps, as interview practice.
+description: The learner explains a topic in their own words and you check for gaps, as interview practice.
 argument-hint: "<topic>"
 disable-model-invocation: true
 ---
 
 # Teach-back
 
-1. Ask her to explain `$ARGUMENTS` in her own words, as she would in an interview. Explain nothing yourself before her answer.
-2. Go through her answer:
+1. Ask the learner to explain `$ARGUMENTS` in their own words, as in an interview. Explain nothing yourself before their answer.
+2. Go through the answer:
    - what is correct;
    - what is inaccurate, with the correct wording and a documentation link;
    - what is missing for a senior backend engineer.

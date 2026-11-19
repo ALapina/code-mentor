@@ -7,7 +7,7 @@ Detect: `package.json` with `react`, `next` or `vite` in its dependencies. Cover
 - **Test framework**: Vitest and Testing Library; Playwright for end-to-end.
 - **Docs**: https://nextjs.org/docs , https://react.dev/reference/react , https://www.typescriptlang.org/docs/
 
-| Type | Hers, edits denied | Open to AI |
+| Type | Learner's, edits denied | Open to AI |
 |---|---|---|
-| exercises | `src/`, `app/` | `tests/exercises/` for exercise tests; her solutions go in `src/exercises/` |
+| exercises | `src/`, `app/` | `tests/exercises/` for exercise tests; the learner's solutions go in `src/exercises/` |
 | portfolio | `src/`, `app/`, `tests/`, `e2e/` | `mocks/` for MSW handlers and fake APIs, `fixtures/` for test data, `dev/` for scripts and seeds |

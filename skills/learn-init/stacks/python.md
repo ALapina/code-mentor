@@ -7,7 +7,7 @@ Detect: `pyproject.toml`, `requirements.txt` or `setup.py`. Assumes the `src/` l
 - **Test framework**: pytest.
 - **Docs**: https://docs.python.org/3/ , https://docs.pytest.org/
 
-| Type | Hers, edits denied | Open to AI |
+| Type | Learner's, edits denied | Open to AI |
 |---|---|---|
 | exercises | `src/` | `tests/exercises/` for exercise tests, `tests/data/` for test data |
 | portfolio | `src/`, `tests/` | `dev/` for fakes, stubs, data generators and seeds, `fixtures/` for data files |

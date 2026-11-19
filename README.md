@@ -7,7 +7,7 @@ A Claude Code plugin that turns Claude into a programming mentor. It gives hints
 - `output-styles/mentor.md`: the mentor style. A hint ladder, explanations pitched to your level on each topic, and finished code only after you say "show solution".
 - `skills/learn-init/stacks/`: one profile per stack with versions, test command, test framework, docs, and which folders are yours or open to AI. Add a file here to support a new stack.
 - Commands:
-  - `/code-mentor:learn-init exercises` or `portfolio` connects the mentor to a project and detects its stacks, including repos with several, e.g. `backend/` and `web/`, and pnpm or npm workspace packages such as `apps/rides`. In portfolio projects it also locks repo-wide files that are hers: Compose, `infra/`, CI workflows, `DESIGN.md`, ADRs, README and `LEARNING.md`;
+  - `/code-mentor:learn-init exercises` or `portfolio` connects the mentor to a project and detects its stacks, including repos with several, e.g. `backend/` and `web/`, and pnpm or npm workspace packages such as `apps/rides`. In portfolio projects it also locks the learner's repo-wide files: Compose, `infra/`, CI workflows, `DESIGN.md`, ADRs, README and `LEARNING.md`;
   - `/code-mentor:review` reviews your code without writing the fix;
   - `/code-mentor:compare` compares your finished solution with an idiomatic one;
   - `/code-mentor:exercise <topic>` creates an exercise with failing tests;
