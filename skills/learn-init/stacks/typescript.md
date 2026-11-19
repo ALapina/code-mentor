@@ -1,6 +1,6 @@
 # Stack: typescript
 
-Detect: `package.json`. Covers Next.js, React and Node projects.
+Detect: `package.json` with `react`, `next` or `vite` in its dependencies. Covers Next.js and React frontends; Node.js services use `node-backend.md`.
 
 - **Versions**: from `package.json`: Next.js, React, TypeScript, Node.
 - **Test command**: the `test` script from `package.json` with the project's package manager, e.g. `pnpm test`. End-to-end: the Playwright script if there is one.

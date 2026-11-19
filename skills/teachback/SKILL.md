@@ -11,6 +11,6 @@ disable-model-invocation: true
 2. Go through her answer:
    - what is correct;
    - what is inaccurate, with the correct wording and a documentation link;
-   - what is missing for a middle fullstack developer in fintech.
+   - what is missing for a senior backend engineer.
 3. Ask two follow-up questions about the gaps, one at a time, as an interviewer would.
 4. Finish with a verdict: understood, partly understood, or worth revisiting. If not fully understood, add one exercise or documentation section.

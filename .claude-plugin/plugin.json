@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "code-mentor",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A programming mentor for any stack: hints instead of finished code, reviews, comparison with an idiomatic solution, exercises with tests."
 }
